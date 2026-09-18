@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Pokedex</title>
+
+        <link rel="stylesheet" href="styles.css">
+        <script src="script.js"></script>
+    </head>
+
+    <body>
+        <div id="content-box">
+
+            <div id="pokemon-info">
+
+                <h2 id="pokemon-name"></h2>
+
+                <img id="pokemon-img"
+                    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png">
+
+                <!-- Types go here -->
+                <div id="pokemon-types"></div>
+
+                <!-- Stats and description -->
+                <div id="pokemon-details">
+                    <div id="pokemon-stats"></div>
+                    <div id="pokemon-description"></div>
+                </div>
+
+            </div>
+
+
+            <!-- Right side -->
+            <div id="pokemon-list-container">
+
+                <!-- Search bar -->
+                <input
+                    type="text"
+                    id="pokemon-search"
+                    placeholder="Search By Name"
+                >
+
+                <!-- Displays Pokemon list -->
+                <div id="pokemon-list"></div>
+
+            </div>
+        </div>
+    </body>
+</html>
