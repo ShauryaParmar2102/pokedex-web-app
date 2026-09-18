@@ -6,7 +6,7 @@ The application retrieves Pokémon information from the PokéAPI and allows user
 
 ## ✨ Features
 
-- 🔢 Displays the original 151 Pokémon
+- 🔢 Displays 300 Pokémon
 - 🔍 Search for Pokémon by name
 - 👆 Click a Pokémon to view its information
 - 🖼️ Displays Pokémon images
