@@ -51,10 +51,6 @@ https://pokeapi.co/
 3. 🌐 Open `index.html` in a browser.
 4. 👆 Select a Pokémon from the list to view its information.
 
-## 🎯 Project Purpose
-
-This project was created as a personal learning project to improve my JavaScript, API, HTML, and CSS skills.
-
 ## 👨‍💻 Author
 
 Made by Shaurya Parmar 
